@@ -11,6 +11,7 @@
 /*********************************************
  * GLOBAL STYLES
  *********************************************/
+/*
 body {
   background: #add9e4;
   background: -moz-radial-gradient(center, circle cover, #f7fbfc 0%, #add9e4 100%);
@@ -20,10 +21,16 @@ body {
   background: -ms-radial-gradient(center, circle cover, #f7fbfc 0%, #add9e4 100%);
   background: radial-gradient(center, circle cover, #f7fbfc 0%, #add9e4 100%);
   background-color: #f7fbfc; }
+ */ 
+body {
+  background: #fff;
+  background-color: #fff; }
+  
+  
 
 .reveal {
   font-family: 'Open Sans', sans-serif;
-  font-size: 36px;
+  font-size: 24px;
   font-weight: normal;
   color: #333; }
 
